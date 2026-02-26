@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53c1b572-cff4-4f85-92ff-556958a7d7e6" name="Changes" comment="-1.1">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AI-LLM.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="53c1b572-cff4-4f85-92ff-556958a7d7e6" name="Changes" comment="-1.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +45,21 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="AI-LLM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="AI-LLM" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +71,7 @@
       <workItem from="1772106753993" duration="661000" />
       <workItem from="1772107507596" duration="780000" />
       <workItem from="1772108796389" duration="348000" />
+      <workItem from="1772109160991" duration="107000" />
     </task>
     <task id="LOCAL-00001" summary="-1.0">
       <option name="closed" value="true" />
@@ -95,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772108939047</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="-1.2">
+      <option name="closed" value="true" />
+      <created>1772109204965</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772109204966</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-1.0" />
     <MESSAGE value="-1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="-1.1" />
+    <MESSAGE value="-1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="-1.2" />
   </component>
 </project>
