@@ -1,6 +1,0 @@
-server:
-  port: 9060
-
-website:
-  domain: http://10.210.193.29:5501    #http://10.210.193.45:5501
-
